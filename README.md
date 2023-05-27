@@ -20,3 +20,6 @@ fill in the link:
 ##### LATITUDE AND LONGITUDE are coordinates like: 33.866577018052 and -118.596285497770.
 ##### PARAMS is a list of params you may find in docs.stormglass.io. Here's a list for the weather endpoint, used in this example: https://docs.stormglass.io/#/weather.
 ##### An example of link would be: https://api.stormglass.io/v2/weather/point?start=2023-05-27T03:00:00&end=2023-05-28T02:00:00&lat=33.866577018052&lng=-118.596285497770&params=swellHeight,swellDirection,swellPeriod.
+##### And an expected result would look like:
+![image](https://github.com/xtreme-solutions/stormglass-testing/assets/34108754/df846133-8191-49d6-8051-e0079a145a89).
+##### use API docs to learn more about params, the source argument, and other endpoints beside weather (tide and astronomical, for example).
