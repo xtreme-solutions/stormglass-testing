@@ -1,14 +1,14 @@
 # stormglass-testing
 rough notes on how to make proper api.stormglass.io requests for comparing swellpro data with other apis
-# tools
+# preps
 ## browser extensions
 for use with ms edge or any chromium based. for other browsers a method to submit header authorization will be needed.
 ### Mod Header extension
 https://microsoftedge.microsoft.com/addons/detail/modheader-modify-http-h/opgbiafapkbbnbnjcdomjaghbckfkglc
 ### seven json viewer
 https://microsoftedge.microsoft.com/addons/detail/seven-json-viewer/khfhokalnpdlmmfjocjgaaipenplemjo
-# preps
-## mod-header extension setup
+## setup
+### mod-header extension setup
 ![image](https://github.com/xtreme-solutions/stormglass-testing/assets/34108754/efdab9c4-7035-44af-bd22-175da72a2ab3)
 # steps
 ## prepare the link:
